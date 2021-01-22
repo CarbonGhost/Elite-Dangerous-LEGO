@@ -1,2 +1,2 @@
-# Elite-Dangerous-LEGO
-Compling every Elite Dangerous LEGO ship -- this project is not associated with Frontier in any way.
+# Elite Dangerous in LEGO
+This reposity aims to complie every Elite Dangerous related LEGO build into one place.
