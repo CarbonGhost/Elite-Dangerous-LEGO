@@ -1,2 +1,3 @@
 # Elite Dangerous in LEGO
-This reposity aims to complie every Elite Dangerous related LEGO build into one place.
+This repository aims to compile every Elite Dangerous related LEGO build into one place.
+
